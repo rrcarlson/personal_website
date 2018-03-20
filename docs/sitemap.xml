@@ -3,85 +3,90 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/hugo-initio-site/about/</loc>
+    <loc>/festive-wiles-91fe4e.netlify.com/about/</loc>
   </url>
   
   <url>
-    <loc>/hugo-initio-site/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/festive-wiles-91fe4e.netlify.com/post/test/</loc>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/festive-wiles-91fe4e.netlify.com/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-initio-site/post/vivamus-lacus-mauris/</loc>
+    <loc>/festive-wiles-91fe4e.netlify.com/post/vivamus-lacus-mauris/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-initio-site/service/service3/</loc>
+    <loc>/festive-wiles-91fe4e.netlify.com/service/service3/</loc>
   </url>
   
   <url>
-    <loc>/hugo-initio-site/categories/</loc>
+    <loc>/festive-wiles-91fe4e.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-initio-site/service/service1/</loc>
+    <loc>/festive-wiles-91fe4e.netlify.com/service/service1/</loc>
   </url>
   
   <url>
-    <loc>/hugo-initio-site/</loc>
+    <loc>/festive-wiles-91fe4e.netlify.com/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-initio-site/tags/plot/</loc>
+    <loc>/festive-wiles-91fe4e.netlify.com/post/</loc>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/festive-wiles-91fe4e.netlify.com/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-initio-site/post/</loc>
+    <loc>/festive-wiles-91fe4e.netlify.com/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-initio-site/categories/r/</loc>
+    <loc>/festive-wiles-91fe4e.netlify.com/</loc>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/festive-wiles-91fe4e.netlify.com/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-initio-site/tags/r-markdown/</loc>
+    <loc>/festive-wiles-91fe4e.netlify.com/service/service4/</loc>
+  </url>
+  
+  <url>
+    <loc>/festive-wiles-91fe4e.netlify.com/service/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/festive-wiles-91fe4e.netlify.com/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-initio-site/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/hugo-initio-site/service/service4/</loc>
-  </url>
-  
-  <url>
-    <loc>/hugo-initio-site/service/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/hugo-initio-site/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/hugo-initio-site/service/service2/</loc>
+    <loc>/festive-wiles-91fe4e.netlify.com/service/service2/</loc>
   </url>
   
 </urlset>
